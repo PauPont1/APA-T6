@@ -26,7 +26,7 @@ seguint les especificacions de l'enunciat i fent servir expressions regulars per
 
 La imatge següent mostra l'execució dels tests unitaris en mode verbós.
 
-![Execució dels tests](tests.png)
+![Execució dels tests](tests.PNG)
 
 Per executar els tests s'ha utilitzat:
 
